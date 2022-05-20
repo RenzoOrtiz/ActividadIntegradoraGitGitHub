@@ -1,7 +1,7 @@
 En un renglon aparte colocar nombre y apellido en un SOLO push, elegir previamente el número de linea a modificar o si hay "conflictos" mantener los cambios del repositorio y elegir un nuevo renglon donde registrarse.
 Alumnos:
 -Francisco Lugo
--
+-Octavio Cortez
 -
 -
 -
