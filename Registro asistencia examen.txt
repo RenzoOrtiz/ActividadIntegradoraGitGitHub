@@ -2,7 +2,7 @@ En un renglon aparte colocar nombre y apellido en un SOLO push, elegir previamen
 Alumnos:
 -Francisco Lugo
 -Octavio Cortez
--
+-Francisco Caceres
 -
 -
 -
